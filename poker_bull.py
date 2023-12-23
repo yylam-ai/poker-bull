@@ -1,5 +1,21 @@
 import random
 
+"""
+POKER BULL:
+The game employs a standard deck of cards, excluding jokers. Each card's point value is determined by its displayed number, with Aces valued at 1 point, and the face cards (J, Q, K) each worth 10 points.
+
+In this game, players are dealt five cards, and an intriguing twist allows the card '6' to be considered as '3,' and vice versa. 
+The key aspect of the game revolves around the concept of 'Niu,' where players strategically select three cards, summing their point values. 
+If the total is a multiple of 10, the player's hand point total is then determined by the remaining two cards. 
+For instance, if the sum of three cards is 20, the total of the remaining two cards, when taken modulo 11, becomes the player's final score. 
+The scoring system ranges from 1 (lowest) to 10 (highest).
+
+Players engage in friendly competition by comparing their point totals, and the participant with the highest score emerges victorious. 
+Notably, there are special scenarios where the remaining two cards form a pair or a specific combination, such as a picture card paired with an Ace of Spades, leading to unique winning outcomes with varied rewards.
+
+In summary:
+Picture card + Ace of Spades > Pair > Regular Score"""
+
 class PokerBullGame:
     def __init__(self):
         self.card_num_dict = {
