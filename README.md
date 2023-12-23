@@ -1,6 +1,6 @@
 🀄 Welcome to the World of Poker Bull (Niu 牛) 🀄
 
-Dive into the vibrant tapestry of Chinese gaming culture with the captivating card game - Poker Bull, lovingly known as 'Niu'! 🎴
+Poker Bull, also known as 'Niu' in Chinese, stands out as a popular card game in Chinese culture. 🎴
 
 🌟 A Fusion of Tradition and Strategy
 Poker Bull unfolds with a standard deck of cards, where even the number '6' can transform into '3' and vice versa, adding a twist of strategic brilliance to your every move. Aces, face cards (J, Q, K), and numerical cards all come into play, each with its unique point value.
